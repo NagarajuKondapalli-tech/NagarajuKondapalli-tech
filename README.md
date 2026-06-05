@@ -2,7 +2,8 @@
 
 ## 👨‍💻 About Me
 - 🎓 MSc Big Data student at **University of Stirling, Scotland**
-- 🇮🇳 Originally from India, now based in Scotland
+- 📍 Based in Stirling, Scotland
+- 🎓 Graduate Route Visa — available to work in UK
 - 💡 Passionate about data analysis and turning data into insights
 - 🔍 Looking for Data Analyst / Data Engineer roles in UK
 
