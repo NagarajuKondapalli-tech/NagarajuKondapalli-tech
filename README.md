@@ -13,10 +13,10 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## 📊 Projects
 | Project | Description | Tools |
 |---|---|---|
-| [Supermarket Sales Analysis](https://github.com/NagarajuKondapalli-tech/supermarket-sales-analysis) | Analysed 1000 sales records to find trends in city sales, product performance and customer behaviour | Python, pandas, MySQL, matplotlib |
+| [Supermarket Sales Analysis](...) | Analysed 1000 sales records... | Python, pandas, MySQL, matplotlib |
+| [NHS A&E Analytics](...) | End-to-end pipeline analysing NHS waiting times with ML prediction model and Power BI dashboard | Python, scikit-learn, Power BI |
 
 ## 📫 Contact
 - 📧 nagarajukondapalli987@outlook.com
